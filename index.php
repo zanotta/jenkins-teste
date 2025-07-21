@@ -1,1 +1,1 @@
-<?php echo 'v1'; ?>
+<?php echo 'v2'; ?>
